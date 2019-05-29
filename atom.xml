@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wikilike7.github.io</id>
     <title>自我驱动</title>
-    <updated>2019-05-28T08:06:26.193Z</updated>
+    <updated>2019-05-29T02:04:23.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wikilike7.github.io"/>
     <link rel="self" href="https://wikilike7.github.io/atom.xml"/>
@@ -10,6 +10,41 @@
     <logo>https://wikilike7.github.io/images/avatar.png</logo>
     <icon>https://wikilike7.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 自我驱动</rights>
+    <entry>
+        <title type="html"><![CDATA[Windows的开发环境配置]]></title>
+        <id>https://wikilike7.github.io/post/配置开发环境</id>
+        <link href="https://wikilike7.github.io/post/配置开发环境">
+        </link>
+        <updated>2019-05-28T09:09:36.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="开始配置吧">开始配置吧！</h1>
+<h2 id="安装chocolatey">安装Chocolatey</h2>
+<blockquote>
+<p><a href="https://chocolatey.org/">Chocolatey</a>是一个Windows下的包管理工具，类似Mac下的<a href="https://www.alfredapp.com/">Alfred</a></p>
+</blockquote>
+<pre><code class="language-bash">@&quot;%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe&quot; -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command &quot;iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))&quot; &amp;&amp; SET &quot;PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin&quot;
+</code></pre>
+<p>如果遇到问题，请参考<a href="https://chocolatey.org/install">链接</a></p>
+<h2 id="安装nodejs">安装Node.js</h2>
+<pre><code class="language-chocolatey">choco install nodejs
+</code></pre>
+<h2 id="安装hexo">安装Hexo</h2>
+<p>使用<code>npm</code>安装<a href="https://hexo.io">Hexo</a></p>
+<pre><code class="language-npm">npm install hexo-cli -g
+</code></pre>
+<h2 id="安装配合hexo使用的git">安装配合Hexo使用的Git</h2>
+<pre><code class="language-npm">npm install hexo-deployer-git --save
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://wikilike7.github.io/post/about</id>
+        <link href="https://wikilike7.github.io/post/about">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<p>这是关于的页面，可以在这里向世界介绍你！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wikilike7.github.io/post/hello-gridea</id>
@@ -40,6 +75,374 @@
 <p>未来，它一定会成为你离不开的伙伴</p>
 <p>尽情发挥你的才华吧！</p>
 <p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[chapter4]]></title>
+        <id>https://wikilike7.github.io/post/chapter4</id>
+        <link href="https://wikilike7.github.io/post/chapter4">
+        </link>
+        <updated>2018-12-04T09:10:29.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="不定词短语">不定词短语</h1>
+<blockquote>
+<p>to + 原形动词组成的短语</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[chapter3.md]]></title>
+        <id>https://wikilike7.github.io/post/chapter3</id>
+        <link href="https://wikilike7.github.io/post/chapter3">
+        </link>
+        <updated>2018-11-13T08:36:13.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="动词时态">动词时态</h1>
+<h2 id="简单式">简单式</h2>
+<ol>
+<li>
+<p>简单式的时间是括弧形状的，也就是说可以包裹起来，可以是过去，现在和未来。be当作动词来看待</p>
+</li>
+<li>
+<p>例句：</p>
+<blockquote>
+<p>The U.S established diplomatic relations with the P.R.C in 1979.</p>
+</blockquote>
+<p>此句中1979这个是时间点，并且1979是属于过去的时间，所以establish用过去式即established</p>
+<blockquote>
+<p>I was visiting clients the whole day yesterday</p>
+</blockquote>
+<p><em>the whold day yesterday</em>表明时间点是扩在这里，所以be动词应该是过去式，<em>visiting clients</em>表示一个现在分词，意思是正在，一直的意思，所以用visiting</p>
+<blockquote>
+<p>7-ELEVEN is selling big cokes at a discount this month</p>
+</blockquote>
+<p>this month表示now的意思，所以用is。而打折正在进行中，所以用selling。</p>
+<blockquote>
+<p>Don't call me at six tomorrow. I'll be sleeping then.</p>
+</blockquote>
+<p><em>at six tomorrow</em>是将来的一个时间点，<em>I'll be sleeping then</em>表示明天6点正在睡觉</p>
+</li>
+</ol>
+<h2 id="完成式">完成式</h2>
+<ol>
+<li>
+<p>相对于简单式用括弧来确定时间，完成式则用箭头形状来表达时间，表示动作的截止时间</p>
+</li>
+<li>
+<p>完成式只表明动作“曾经，做过”</p>
+</li>
+<li>
+<p>例句：</p>
+<blockquote>
+<p>I'm sure i have seen this face somewhere</p>
+</blockquote>
+<p>只能确定是看过但是无法确认是什么时间看到过的，表示过去到现在截止，用<em>have been</em>表示完成</p>
+<blockquote>
+<p>I had been smoking three packs of cigaretters a day before i decided to quit</p>
+</blockquote>
+<p>此处&quot;decided to quit&quot;已经是过去的时间，而&quot;before i&quot;则表明是过去的过去，所以用&quot;had been&quot;</p>
+<blockquote>
+<p>Next April, i will have worked here for 20 years</p>
+</blockquote>
+<p>将来完成时，从过去到将来的某一个时间点完成了什么</p>
+</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[chapter2.md]]></title>
+        <id>https://wikilike7.github.io/post/chapter2</id>
+        <link href="https://wikilike7.github.io/post/chapter2">
+        </link>
+        <updated>2018-11-07T09:03:08.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="名词词组与冠词">名词词组与冠词</h1>
+<h2 id="名词短语">名词短语</h2>
+<ol>
+<li>由三个部分组成，第一个部分是限定词（a, many, 等），第一个部分决定第三个部分的范围（单复数形式），第二个部分是形容词，用于修饰名词。</li>
+</ol>
+<h2 id="什么时候不需要限定词">什么时候不需要限定词</h2>
+<ol>
+<li>a(n)可以视为是one的弱化结果</li>
+<li>除了复数外，抽象名词（虽然是具体的东西，但是形状并不固定）也不能以“一个”来表示</li>
+</ol>
+<h2 id="专有名词和补语位置">专有名词和补语位置</h2>
+<ol>
+<li>人名和地名都是专有名词，因为它所代表的对象只有一个，也不适合加a(n)</li>
+<li>主语是专有名词时，主语补语也为专有名词，宾语亦是同理</li>
+</ol>
+<h2 id="the">the</h2>
+<ol>
+<li>the可以视为是that或those的弱化形式</li>
+<li>上下文有明指或者暗示时，也就有“那个”指示功能时用the</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test 1]]></title>
+        <id>https://wikilike7.github.io/post/Test-1</id>
+        <link href="https://wikilike7.github.io/post/Test-1">
+        </link>
+        <updated>2018-11-05T09:09:36.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="判断以下句子属于五种基本类型的哪一种">判断以下句子属于五种基本类型的哪一种</h1>
+<ol>
+<li>
+<p>The magician moved his fingers quickly.</p>
+<blockquote>
+<p>s + v + o</p>
+</blockquote>
+</li>
+<li>
+<p>The police found the letter missing.</p>
+<blockquote>
+<p>s + v + o + c</p>
+</blockquote>
+</li>
+<li>
+<p>The police found the missing letter.</p>
+<blockquote>
+<p>s + v + o</p>
+</blockquote>
+</li>
+<li>
+<p>He ordered himself a steak and a bottle of red wine.</p>
+<blockquote>
+<p>s + v + o + o</p>
+</blockquote>
+</li>
+<li>
+<p>Don't you like dancing?</p>
+<blockquote>
+<p>s + v + o</p>
+</blockquote>
+</li>
+<li>
+<p>The President has gone abroad on a visit.</p>
+<blockquote>
+<p>s + v</p>
+</blockquote>
+</li>
+<li>
+<p>That sounds like a good idea.</p>
+<blockquote>
+<p>s + v + c</p>
+</blockquote>
+</li>
+<li>
+<p>The box feels heavy.</p>
+<blockquote>
+<p>s + v + c</p>
+</blockquote>
+</li>
+<li>
+<p>He told his guests a dirty joke at the party.</p>
+<blockquote>
+<p>s + v + o + o</p>
+</blockquote>
+</li>
+<li>
+<p>The people elected Bill Clinton President</p>
+<blockquote>
+<p>s + v + o + c</p>
+</blockquote>
+</li>
+<li>
+<p>The child asks her mother a million questions a day.</p>
+<blockquote>
+<p>s + v + o + o</p>
+</blockquote>
+</li>
+<li>
+<p>Monkeys love bananas.</p>
+<blockquote>
+<p>s + v + o</p>
+</blockquote>
+</li>
+<li>
+<p>You can leave the door open.</p>
+<blockquote>
+<p>s + v + o + c</p>
+</blockquote>
+</li>
+<li>
+<p>The company has gone bankrupt.</p>
+<blockquote>
+<p>s + v + c</p>
+</blockquote>
+</li>
+<li>
+<p>Why don't you answer me?</p>
+<blockquote>
+<p>s + v + o</p>
+</blockquote>
+</li>
+<li>
+<p>I consider you a member of the family.</p>
+<blockquote>
+<p>s + v + o + c</p>
+</blockquote>
+</li>
+<li>
+<p>It never rains in California.</p>
+<blockquote>
+<p>s + v</p>
+</blockquote>
+</li>
+<li>
+<p>You'll look better with these designer glasses.</p>
+<blockquote>
+<p>s + v + c</p>
+</blockquote>
+</li>
+<li>
+<p>I can see better without these reading glasses.</p>
+<blockquote>
+<p>s + v</p>
+</blockquote>
+</li>
+<li>
+<p>Do you call me a lair?</p>
+<blockquote>
+<p>s + v + o + c</p>
+</blockquote>
+</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chapter1-基本句型和补语]]></title>
+        <id>https://wikilike7.github.io/post/chapter1</id>
+        <link href="https://wikilike7.github.io/post/chapter1">
+        </link>
+        <updated>2018-10-29T07:22:11.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>
+<p>先了解几个基本概念：</p>
+<blockquote>
+<p>主语：subject
+动词：verb
+宾语：object
+补语：complement</p>
+</blockquote>
+</li>
+<li>
+<p>5种基本句型</p>
+<ol>
+<li>s + v</li>
+<li>s + v + o</li>
+<li>s + v + c</li>
+<li>s + v + o + o</li>
+<li>s + v + o + c</li>
+</ol>
+</li>
+<li>
+<p>及物动词和不及物动词</p>
+<ol>
+<li>及物动词表示为动作的发生不需要对象去接受</li>
+<li>不及物动词表示动作的发生需要另一个对象对接受</li>
+</ol>
+</li>
+<li>
+<p>补语</p>
+<ol>
+<li>
+<p>在英语中表示为“是”的动词是无意义的，只是个连接词，需要在后面接补语来补足句子的完整性</p>
+</li>
+<li>
+<p>与“be动词”有着相似的意思的动词还有如下这些：
+seem
+appear
+sound
+feel
+taste
+turn
+prove
+become
+make</p>
+</li>
+<li>
+<p>你会发现这些词有着共性，即be可以替换它们，也就是说这些词实际是无意义的，而后面接的句子也就是补语</p>
+</li>
+<li>
+<p>一般而言，补语的类型多为名词或者形容词</p>
+</li>
+</ol>
+</li>
+<li>
+<p>s + v + o + c类型</p>
+<ol>
+<li><code>I find the dress pretty</code>, 这句话是很典型的宾语补语的句型，其中<code>i</code>即主语，<code>find</code>是动词，<code>the dress</code>是宾语，<code>pretty</code>是补语，可以发现如果在宾语和补语间加一个be动词可以构成s + v + c的句型，这个方法能够很简便的检验出句型是不是s + v + o + c</li>
+</ol>
+</li>
+<li>
+<p>be动词</p>
+<ol>
+<li>be动词后面没接补语，此时be动词不解释为“是”，而解释为“存在”</li>
+<li><code>To be or not to be</code>,来自哈姆雷特的经典对白，这里的<code>to be</code>翻译为存在，活着的意思，而不是<code>我是</code></li>
+</ol>
+</li>
+<li>
+<p>S + V + O + O</p>
+<ol>
+<li>
+<blockquote>
+<p>John's father gave him a dog</p>
+</blockquote>
+</li>
+<li>John's father是主语，gave是动词，gave实现的是把某种事物给到某个对象，本句中dog是宾语，him也是宾语。</li>
+</ol>
+</li>
+<li>
+<p>S + V + O + C</p>
+<ol>
+<li>
+<blockquote>
+<p>John's father called him a dog</p>
+</blockquote>
+</li>
+<li>John's father是主语，called是动词，him是宾语，a dog是补语。此句中宾语和补语是近似<strong>等于是</strong>的意思。</li>
+</ol>
+</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grammar club]]></title>
+        <id>https://wikilike7.github.io/post/Grammar-club</id>
+        <link href="https://wikilike7.github.io/post/Grammar-club">
+        </link>
+        <updated>2018-10-29T06:14:34.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>你有一万个理由去学英语，但是放弃却只在一瞬间，比如：太难了</p>
+</blockquote>
+<p>最近在Kindle上下载了一本书：《英语魔法师-语法俱乐部》，适用于初学者这点是很吸引我，我决定花点时间读一读。</p>
+<p>另外，我去豆瓣搜了搜这本书的评价，评价还是很高的，给到了9.5。</p>
+<p><img src="http://os6nzu04c.bkt.clouddn.com/%E8%AF%AD%E6%B3%95%E4%BF%B1%E4%B9%90%E9%83%A8.png" alt="grammar club"></p>
+<p><img src="http://phcrjo08s.bkt.clouddn.com/grammar_club_menu.png" alt="grammar club menu"></p>
+<p>从目录可以看到，从简单句到复杂句，符合我这个段位的选手，开始吧。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何高效的除甲醛]]></title>
+        <id>https://wikilike7.github.io/post/如何高效的除甲醛</id>
+        <link href="https://wikilike7.github.io/post/如何高效的除甲醛">
+        </link>
+        <updated>2018-07-31T02:59:06.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>需要声明的是，此方法我还未完全实验成功，但我觉得已经初有成效</p>
+</blockquote>
+<h3 id="旧方法">旧方法</h3>
+<ol>
+<li>活性炭</li>
+<li>绿植</li>
+<li>开窗通风（我知道你们质疑这个，我们后面再讨论）</li>
+<li>喷洒二氧化钛</li>
+<li>活性炭晶石</li>
+</ol>
+<h3 id="从别人的方法总结而来">从别人的方法总结而来</h3>
+<ol>
+<li>甲醛是一种无色有刺激性气味的存在，至于危害，百度也好，Google也好，均能找到资料</li>
+<li>甲醛在高温（30度以上），高湿（70+）时释放最快，高温低湿度，甲醛释放不出来，低温高湿，则溶于水。所以高温高湿是非常必要的，所以夏天是最好的除甲醛的季节。</li>
+<li>准备工业型电风扇一台（带过温保护），离心风机和配套的管子，加湿器（如果当地的湿度不够），空调（如果当地温度不够）</li>
+<li>将房间里的温度和湿度弄到之前第二条列出的条件，打开电扇和离心风机，一边抽风，一边吹风，尽量选择在白天进行，因为白天温度高，更容易将甲醛吹出去或者吸出去</li>
+</ol>
 ]]></content>
     </entry>
 </feed>
