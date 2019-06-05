@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wikilike7.github.io</id>
     <title>自我驱动</title>
-    <updated>2019-05-29T08:40:46.821Z</updated>
+    <updated>2019-06-05T02:48:37.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wikilike7.github.io"/>
     <link rel="self" href="https://wikilike7.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://wikilike7.github.io/images/avatar.png</logo>
     <icon>https://wikilike7.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 自我驱动</rights>
+    <entry>
+        <title type="html"><![CDATA[PowerShell配色]]></title>
+        <id>https://wikilike7.github.io/post/powershell-pei-se</id>
+        <link href="https://wikilike7.github.io/post/powershell-pei-se">
+        </link>
+        <updated>2019-06-05T02:32:04.000Z</updated>
+        <summary type="html"><![CDATA[<p>原始配色过于丑陋，实在是不能忍，故寻找合适的配色方案</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>原始配色过于丑陋，实在是不能忍，故寻找合适的配色方案</p>
+<!-- more -->
+<ol>
+<li>打开 <a href="https://github.com/microsoft/terminal/releases">这里</a> , 下载Color Tool</li>
+<li>参考 <a href="https://devblogs.microsoft.com/commandline/introducing-the-windows-console-colortool/">这里</a> 的说明配置自己喜欢的颜色方案即可</li>
+<li>我选择的是OneHalfDark</li>
+<li>简单贴一下命令：</li>
+</ol>
+<pre><code class="language-powershell">cd c:\users\xxx\download\colortool
+.\ColorTool.exe -b .\schemes\OneHalfDark.itermcolors
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows的开发环境配置]]></title>
         <id>https://wikilike7.github.io/post/配置开发环境</id>
