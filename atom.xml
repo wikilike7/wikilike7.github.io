@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wikilike7.github.io</id>
     <title>自我驱动</title>
-    <updated>2019-06-05T07:53:52.021Z</updated>
+    <updated>2019-07-17T02:46:28.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wikilike7.github.io"/>
     <link rel="self" href="https://wikilike7.github.io/atom.xml"/>
@@ -10,6 +10,38 @@
     <logo>https://wikilike7.github.io/images/avatar.png</logo>
     <icon>https://wikilike7.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 自我驱动</rights>
+    <entry>
+        <title type="html"><![CDATA[A 和 An的区别和相同]]></title>
+        <id>https://wikilike7.github.io/post/a-he-an-de-qu-bie-he-xiang-tong</id>
+        <link href="https://wikilike7.github.io/post/a-he-an-de-qu-bie-he-xiang-tong">
+        </link>
+        <updated>2019-07-17T02:04:33.000Z</updated>
+        <summary type="html"><![CDATA[<p>A和An的区别主要在于后面的名词是元音开头还是辅音开头，相同点都是表达“一个”。<br>
+使用A 还是 An取决于发音是什么</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>A和An的区别主要在于后面的名词是元音开头还是辅音开头，相同点都是表达“一个”。<br>
+使用A 还是 An取决于发音是什么</p>
+<!-- more -->
+<h2 id="相同点">相同点</h2>
+<p>A 和 An 作为不定冠词都是用来修饰后面的名词，而名词则必须是可数名词</p>
+<h2 id="不同点">不同点</h2>
+<p>A 后面的接的名词是辅音开头的</p>
+<p>An 后面的接的名词是元音开头的（a, e, i, o, u）</p>
+<h2 id="例子">例子</h2>
+<blockquote>
+<p>a book<br>
+a desk<br>
+an elephant<br>
+an hour(h不发音，所以参考后面的o)<br>
+a hospital<br>
+an egg<br>
+an umbrella<br>
+an actor<br>
+a doctor<br>
+a university(u的发音和You很像，所以用a)</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PowerShell配色]]></title>
         <id>https://wikilike7.github.io/post/powershell-pei-se</id>
@@ -296,9 +328,9 @@
 <li>
 <p>先了解几个基本概念：</p>
 <blockquote>
-<p>主语：subject
-动词：verb
-宾语：object
+<p>主语：subject<br>
+动词：verb<br>
+宾语：object<br>
 补语：complement</p>
 </blockquote>
 </li>
@@ -326,15 +358,15 @@
 <p>在英语中表示为“是”的动词是无意义的，只是个连接词，需要在后面接补语来补足句子的完整性</p>
 </li>
 <li>
-<p>与“be动词”有着相似的意思的动词还有如下这些：
-seem
-appear
-sound
-feel
-taste
-turn
-prove
-become
+<p>与“be动词”有着相似的意思的动词还有如下这些：<br>
+seem<br>
+appear<br>
+sound<br>
+feel<br>
+taste<br>
+turn<br>
+prove<br>
+become<br>
 make</p>
 </li>
 <li>
