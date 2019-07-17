@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wikilike7.github.io</id>
     <title>自我驱动</title>
-    <updated>2019-07-17T12:48:13.728Z</updated>
+    <updated>2019-07-17T13:19:01.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wikilike7.github.io"/>
     <link rel="self" href="https://wikilike7.github.io/atom.xml"/>
@@ -20,6 +20,18 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>The difference in both of them is whether describe the feels of people(some animals) or object.</p>
 <!-- more-->
+<h2 id="-ed">-ed</h2>
+<p>describe emotions - they tell us how people feel.</p>
+<blockquote>
+<p>I was so bored in that lesson.<br>
+He was surprised to see Helen after all those years.</p>
+</blockquote>
+<h2 id="-ing">-ing</h2>
+<p>describe the thing that cause the emotion - a boring lesson makes you feel bored.</p>
+<blockquote>
+<p>I can't sleep! That noise is really annoying!<br>
+I could listen to her for hours. She's so interesting.</p>
+</blockquote>
 ]]></content>
     </entry>
     <entry>
