@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wikilike7.github.io</id>
     <title>自我驱动</title>
-    <updated>2019-07-17T09:20:26.774Z</updated>
+    <updated>2019-07-17T12:48:13.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wikilike7.github.io"/>
     <link rel="self" href="https://wikilike7.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://wikilike7.github.io/images/avatar.png</logo>
     <icon>https://wikilike7.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 自我驱动</rights>
+    <entry>
+        <title type="html"><![CDATA[Adjectives ending in '-ed' and '-ing']]></title>
+        <id>https://wikilike7.github.io/post/adjectives-ending-in-ed-and-ing</id>
+        <link href="https://wikilike7.github.io/post/adjectives-ending-in-ed-and-ing">
+        </link>
+        <updated>2019-07-17T08:25:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>The difference in both of them is whether describe the feels of people(some animals) or object.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>The difference in both of them is whether describe the feels of people(some animals) or object.</p>
+<!-- more-->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A 和 An的区别和相同]]></title>
         <id>https://wikilike7.github.io/post/a-he-an-de-qu-bie-he-xiang-tong</id>
@@ -428,32 +440,6 @@ make</p>
 <p>另外，我去豆瓣搜了搜这本书的评价，评价还是很高的，给到了9.5。</p>
 <p><img src="https://s2.ax1x.com/2019/06/05/VN7yjO.png" alt=""></p>
 <p>从目录可以看到，从简单句到复杂句，符合我这个段位的选手，开始吧。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何高效的除甲醛]]></title>
-        <id>https://wikilike7.github.io/post/如何高效的除甲醛</id>
-        <link href="https://wikilike7.github.io/post/如何高效的除甲醛">
-        </link>
-        <updated>2018-07-31T02:59:06.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>需要声明的是，此方法我还未完全实验成功，但我觉得已经初有成效</p>
-</blockquote>
-<h2 id="旧方法">旧方法</h2>
-<ol>
-<li>活性炭</li>
-<li>绿植</li>
-<li>开窗通风</li>
-<li>喷洒二氧化钛</li>
-<li>活性炭晶石</li>
-</ol>
-<h2 id="从别人的方法总结而来">从别人的方法总结而来</h2>
-<ol>
-<li>甲醛是一种无色有刺激性气味的存在，至于危害，百度也好，Google也好，均能找到资料</li>
-<li>甲醛在高温（30度以上），高湿（70+）时释放最快，高温低湿度，甲醛释放不出来，低温高湿，则溶于水。所以高温高湿是非常必要的，所以夏天是最好的除甲醛的季节。</li>
-<li>准备工业型电风扇一台（带过温保护），离心风机和配套的管子，加湿器（如果当地的湿度不够），空调（如果当地温度不够）</li>
-<li>将房间里的温度和湿度弄到之前第二条列出的条件，打开电扇和离心风机，一边抽风，一边吹风，尽量选择在白天进行，因为白天温度高，更容易将甲醛吹出去或者吸出去</li>
-</ol>
 ]]></content>
     </entry>
 </feed>
