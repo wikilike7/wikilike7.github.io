@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wikilike7.github.io</id>
     <title>自我驱动</title>
-    <updated>2019-07-18T01:03:27.083Z</updated>
+    <updated>2019-07-18T05:41:22.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wikilike7.github.io"/>
     <link rel="self" href="https://wikilike7.github.io/atom.xml"/>
@@ -35,23 +35,38 @@ I could listen to her for hours. She's so interesting.</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A 和 An的区别和相同]]></title>
+        <title type="html"><![CDATA[A, An, The]]></title>
         <id>https://wikilike7.github.io/post/a-he-an-de-qu-bie-he-xiang-tong</id>
         <link href="https://wikilike7.github.io/post/a-he-an-de-qu-bie-he-xiang-tong">
         </link>
         <updated>2019-07-17T02:04:33.000Z</updated>
-        <summary type="html"><![CDATA[<p>A和An的区别主要在于后面的名词是元音开头还是辅音开头，相同点都是表达“一个”。<br>
-使用A 还是 An取决于发音是什么</p>
+        <summary type="html"><![CDATA[<p>单数的可数名词总是有冠词来修饰，例如a, an, the或者其他限定词</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>A和An的区别主要在于后面的名词是元音开头还是辅音开头，相同点都是表达“一个”。<br>
-使用A 还是 An取决于发音是什么</p>
+        <content type="html"><![CDATA[<p>单数的可数名词总是有冠词来修饰，例如a, an, the或者其他限定词</p>
 <!-- more -->
-<h2 id="相同点">相同点</h2>
-<p>A 和 An 作为不定冠词都是用来修饰后面的名词，而名词则必须是可数名词</p>
-<h2 id="不同点">不同点</h2>
-<p>A 后面的接的名词是辅音开头的</p>
-<p>An 后面的接的名词是元音开头的（a, e, i, o, u）</p>
-<h2 id="例子">例子</h2>
+<h2 id="a-an">a, an</h2>
+<p>when we talk about something for the first time, or something that is part of a group or type.</p>
+<p>We use <strong>a</strong> when the word that follows it begins with a consonant soud.<br>
+We use <strong>an</strong> when it's followed by a vowel sound.</p>
+<blockquote>
+<p>I saw a good film yesterday.<br>
+Do you want a drink?<br>
+She has a university degree.<br>
+It took me an hour to get home.</p>
+</blockquote>
+<h2 id="the">the</h2>
+<p>when the listener already knows which thing we are talking about because it was mentioned before or because there's only one of them.</p>
+<blockquote>
+<p>I'm going to take the dog for a walk.<br>
+Have you seen the car key?</p>
+</blockquote>
+<h2 id="no-article">no article</h2>
+<p>we normally use a plural or uncountable  noun with no article</p>
+<blockquote>
+<p>Birds eat worms<br>
+Children need a lot of sleep</p>
+</blockquote>
+<h2 id="examples">examples</h2>
 <blockquote>
 <p>a book<br>
 a desk<br>
