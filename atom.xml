@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wikilike7.github.io</id>
     <title>自我驱动</title>
-    <updated>2019-07-18T09:00:36.182Z</updated>
+    <updated>2019-07-19T08:10:25.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wikilike7.github.io"/>
     <link rel="self" href="https://wikilike7.github.io/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://wikilike7.github.io/images/avatar.png</logo>
     <icon>https://wikilike7.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 自我驱动</rights>
+    <entry>
+        <title type="html"><![CDATA[Countable and uncountable nouns]]></title>
+        <id>https://wikilike7.github.io/post/countable-and-uncountable-nouns</id>
+        <link href="https://wikilike7.github.io/post/countable-and-uncountable-nouns">
+        </link>
+        <updated>2019-07-19T06:07:28.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="countable-nouns">countable nouns</h2>
+<p>For positive sentence we can use a/an for singular nouns or some for plurals.</p>
+<blockquote>
+<p>There's a man at the door<br>
+I have some friends in New York.</p>
+</blockquote>
+<p>For negatives we can use a/an for singular nouns or any for plurals.</p>
+<blockquote>
+<p>I don't have a dog.<br>
+There aren't any seats.</p>
+</blockquote>
+<h2 id="uncountable-nouns">uncountable  nouns</h2>
+<p>for positive sentence: some<br>
+for negative sentence: any</p>
+<h2 id="question">question</h2>
+<ol>
+<li>In question we use a/an, any or how many with countable nouns.</li>
+<li>We use any or how much with uncountable nouns.</li>
+<li>but we use some when we are offering something or asking for something.</li>
+<li>We also use some in question when we think the answer will be 'yes'</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Articles]]></title>
         <id>https://wikilike7.github.io/post/articles</id>
@@ -402,103 +431,6 @@ a university(u的发音和You很像，所以用a)</p>
 <blockquote>
 <p>s + v + o + c</p>
 </blockquote>
-</li>
-</ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chapter1]]></title>
-        <id>https://wikilike7.github.io/post/chapter1</id>
-        <link href="https://wikilike7.github.io/post/chapter1">
-        </link>
-        <updated>2018-10-29T07:22:11.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>
-<p>先了解几个基本概念：</p>
-<blockquote>
-<p>主语：subject<br>
-动词：verb<br>
-宾语：object<br>
-补语：complement</p>
-</blockquote>
-</li>
-<li>
-<p>5种基本句型</p>
-<ol>
-<li>s + v</li>
-<li>s + v + o</li>
-<li>s + v + c</li>
-<li>s + v + o + o</li>
-<li>s + v + o + c</li>
-</ol>
-</li>
-<li>
-<p>及物动词和不及物动词</p>
-<ol>
-<li>及物动词表示为动作的发生不需要对象去接受</li>
-<li>不及物动词表示动作的发生需要另一个对象对接受</li>
-</ol>
-</li>
-<li>
-<p>补语</p>
-<ol>
-<li>
-<p>在英语中表示为“是”的动词是无意义的，只是个连接词，需要在后面接补语来补足句子的完整性</p>
-</li>
-<li>
-<p>与“be动词”有着相似的意思的动词还有如下这些：<br>
-seem<br>
-appear<br>
-sound<br>
-feel<br>
-taste<br>
-turn<br>
-prove<br>
-become<br>
-make</p>
-</li>
-<li>
-<p>你会发现这些词有着共性，即be可以替换它们，也就是说这些词实际是无意义的，而后面接的句子也就是补语</p>
-</li>
-<li>
-<p>一般而言，补语的类型多为名词或者形容词</p>
-</li>
-</ol>
-</li>
-<li>
-<p>s + v + o + c类型</p>
-<ol>
-<li><code>I find the dress pretty</code>, 这句话是很典型的宾语补语的句型，其中<code>i</code>即主语，<code>find</code>是动词，<code>the dress</code>是宾语，<code>pretty</code>是补语，可以发现如果在宾语和补语间加一个be动词可以构成s + v + c的句型，这个方法能够很简便的检验出句型是不是s + v + o + c</li>
-</ol>
-</li>
-<li>
-<p>be动词</p>
-<ol>
-<li>be动词后面没接补语，此时be动词不解释为“是”，而解释为“存在”</li>
-<li><code>To be or not to be</code>,来自哈姆雷特的经典对白，这里的<code>to be</code>翻译为存在，活着的意思，而不是<code>我是</code></li>
-</ol>
-</li>
-<li>
-<p>S + V + O + O</p>
-<ol>
-<li>
-<blockquote>
-<p>John's father gave him a dog</p>
-</blockquote>
-</li>
-<li>John's father是主语，gave是动词，gave实现的是把某种事物给到某个对象，本句中dog是宾语，him也是宾语。</li>
-</ol>
-</li>
-<li>
-<p>S + V + O + C</p>
-<ol>
-<li>
-<blockquote>
-<p>John's father called him a dog</p>
-</blockquote>
-</li>
-<li>John's father是主语，called是动词，him是宾语，a dog是补语。此句中宾语和补语是近似<strong>等于是</strong>的意思。</li>
-</ol>
 </li>
 </ol>
 ]]></content>
