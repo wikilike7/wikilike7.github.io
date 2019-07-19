@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wikilike7.github.io</id>
     <title>自我驱动</title>
-    <updated>2019-07-19T08:28:20.481Z</updated>
+    <updated>2019-07-19T09:12:01.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wikilike7.github.io"/>
     <link rel="self" href="https://wikilike7.github.io/atom.xml"/>
@@ -10,6 +10,45 @@
     <logo>https://wikilike7.github.io/images/avatar.png</logo>
     <icon>https://wikilike7.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 自我驱动</rights>
+    <entry>
+        <title type="html"><![CDATA[Past continuous and past simple]]></title>
+        <id>https://wikilike7.github.io/post/past-continuous-and-past-simple</id>
+        <link href="https://wikilike7.github.io/post/past-continuous-and-past-simple">
+        </link>
+        <updated>2019-07-19T08:29:16.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="past-simple">Past simple</h2>
+<p>Past simple shows us that action was in the past , not in the present.</p>
+<p><code>postitive sentence</code></p>
+<blockquote>
+<p>My parents called me yesterday.<br>
+I woke up early this morning.</p>
+</blockquote>
+<p><code>negative sentence</code></p>
+<blockquote>
+<p>My parents didn't call me yesterday.<br>
+I didn't wake up this morning.</p>
+</blockquote>
+<p><code>question sentence</code></p>
+<blockquote>
+<p>Did your parents call you yesterday?<br>
+Did you wake up this morning?</p>
+</blockquote>
+<h2 id="past-continuous">Past continuous</h2>
+<p>The past continuous shows us that the action was already in progress at a certain time in the past.</p>
+<blockquote>
+<p>What are you doing at 8 p.m. last night? I was studying.<br>
+She couldn't come to the party. She was working.<br>
+Three years ago, we were living in my home town.</p>
+</blockquote>
+<h2 id="past-continuous-and-past-simple">Past continuous and past simple</h2>
+<p>When we use these two tenses together, it shows us that the past simple action happened in the middle of the past continuous action, while it was in progress.</p>
+<blockquote>
+<p>While i was studying, i suddenly felt sleepy.<br>
+I broke my leg when i was skiing.<br>
+As i was going to work, i saw an old friend.</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Countable and uncountable nouns]]></title>
         <id>https://wikilike7.github.io/post/countable-and-uncountable-nouns</id>
@@ -301,137 +340,6 @@ a university(u的发音和You很像，所以用a)</p>
 <ol>
 <li>the可以视为是that或those的弱化形式</li>
 <li>上下文有明指或者暗示时，也就有“那个”指示功能时用the</li>
-</ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Test 1]]></title>
-        <id>https://wikilike7.github.io/post/Test-1</id>
-        <link href="https://wikilike7.github.io/post/Test-1">
-        </link>
-        <updated>2018-11-05T09:09:36.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="判断以下句子属于五种基本类型的哪一种">判断以下句子属于五种基本类型的哪一种</h1>
-<ol>
-<li>
-<p>The magician moved his fingers quickly.</p>
-<blockquote>
-<p>s + v + o</p>
-</blockquote>
-</li>
-<li>
-<p>The police found the letter missing.</p>
-<blockquote>
-<p>s + v + o + c</p>
-</blockquote>
-</li>
-<li>
-<p>The police found the missing letter.</p>
-<blockquote>
-<p>s + v + o</p>
-</blockquote>
-</li>
-<li>
-<p>He ordered himself a steak and a bottle of red wine.</p>
-<blockquote>
-<p>s + v + o + o</p>
-</blockquote>
-</li>
-<li>
-<p>Don't you like dancing?</p>
-<blockquote>
-<p>s + v + o</p>
-</blockquote>
-</li>
-<li>
-<p>The President has gone abroad on a visit.</p>
-<blockquote>
-<p>s + v</p>
-</blockquote>
-</li>
-<li>
-<p>That sounds like a good idea.</p>
-<blockquote>
-<p>s + v + c</p>
-</blockquote>
-</li>
-<li>
-<p>The box feels heavy.</p>
-<blockquote>
-<p>s + v + c</p>
-</blockquote>
-</li>
-<li>
-<p>He told his guests a dirty joke at the party.</p>
-<blockquote>
-<p>s + v + o + o</p>
-</blockquote>
-</li>
-<li>
-<p>The people elected Bill Clinton President</p>
-<blockquote>
-<p>s + v + o + c</p>
-</blockquote>
-</li>
-<li>
-<p>The child asks her mother a million questions a day.</p>
-<blockquote>
-<p>s + v + o + o</p>
-</blockquote>
-</li>
-<li>
-<p>Monkeys love bananas.</p>
-<blockquote>
-<p>s + v + o</p>
-</blockquote>
-</li>
-<li>
-<p>You can leave the door open.</p>
-<blockquote>
-<p>s + v + o + c</p>
-</blockquote>
-</li>
-<li>
-<p>The company has gone bankrupt.</p>
-<blockquote>
-<p>s + v + c</p>
-</blockquote>
-</li>
-<li>
-<p>Why don't you answer me?</p>
-<blockquote>
-<p>s + v + o</p>
-</blockquote>
-</li>
-<li>
-<p>I consider you a member of the family.</p>
-<blockquote>
-<p>s + v + o + c</p>
-</blockquote>
-</li>
-<li>
-<p>It never rains in California.</p>
-<blockquote>
-<p>s + v</p>
-</blockquote>
-</li>
-<li>
-<p>You'll look better with these designer glasses.</p>
-<blockquote>
-<p>s + v + c</p>
-</blockquote>
-</li>
-<li>
-<p>I can see better without these reading glasses.</p>
-<blockquote>
-<p>s + v</p>
-</blockquote>
-</li>
-<li>
-<p>Do you call me a lair?</p>
-<blockquote>
-<p>s + v + o + c</p>
-</blockquote>
-</li>
 </ol>
 ]]></content>
     </entry>
