@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wikilike7.github.io</id>
     <title>自我驱动</title>
-    <updated>2019-08-05T06:48:39.989Z</updated>
+    <updated>2019-08-05T09:25:17.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wikilike7.github.io"/>
     <link rel="self" href="https://wikilike7.github.io/atom.xml"/>
@@ -10,6 +10,44 @@
     <logo>https://wikilike7.github.io/images/avatar.png</logo>
     <icon>https://wikilike7.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 自我驱动</rights>
+    <entry>
+        <title type="html"><![CDATA[可数名词和不可数名词]]></title>
+        <id>https://wikilike7.github.io/post/ke-shu-ming-ci-he-bu-ke-shu-ming-ci</id>
+        <link href="https://wikilike7.github.io/post/ke-shu-ming-ci-he-bu-ke-shu-ming-ci">
+        </link>
+        <updated>2019-08-05T08:08:15.000Z</updated>
+        <summary type="html"><![CDATA[<p>可数名词和不可数的名词的边界并不是那么清晰，可数还是不可数更取决于当前的语境对其含义和可数性的影响。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>可数名词和不可数的名词的边界并不是那么清晰，可数还是不可数更取决于当前的语境对其含义和可数性的影响。</p>
+<!-- more -->
+<p>可数性的转换是不清晰的，需要用心去感受当前语境下需要哪种名词，是表示的物质的总称，还是表示不同种类或者具体的事物的。</p>
+<p>在这种转换时有时候名词的意思也会改变，有时候则不会改变。</p>
+<p>例如：</p>
+<hr>
+<p><strong>词义发生了改变</strong></p>
+<blockquote>
+<p>I need some paper to write a letter on.<br>
+I have a term paper to write on weekends.<br>
+I bought a paper</p>
+</blockquote>
+<pre><code>
+ 1. 第一句的 paper 表示为纸，不可数名词
+ 2. 第二句的 paper 表示为论文，可数名词
+ 3. 第三句的 paper 表示为报纸，相当于 newspaper，可数名词
+ 
+</code></pre>
+<hr>
+<p><strong>词义未发生改变</strong></p>
+<blockquote>
+<p>I like cake, not hamburger.<br>
+My mother is making a cake in the kitchen.</p>
+</blockquote>
+<pre><code>
+1. 第一句的 cake 表示为不可数名词，蛋糕
+2. 第二句的 cake 表示为一块蛋糕，可数名词
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[名词]]></title>
         <id>https://wikilike7.github.io/post/ming-ci</id>
@@ -283,64 +321,6 @@ a university(u的发音和You很像，所以用a)</p>
 <blockquote>
 <p>to + 原形动词组成的短语</p>
 </blockquote>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chapter3.md]]></title>
-        <id>https://wikilike7.github.io/post/chapter3</id>
-        <link href="https://wikilike7.github.io/post/chapter3">
-        </link>
-        <updated>2018-11-13T08:36:13.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="动词时态">动词时态</h1>
-<h2 id="简单式">简单式</h2>
-<ol>
-<li>
-<p>简单式的时间是括弧形状的，也就是说可以包裹起来，可以是过去，现在和未来。be当作动词来看待</p>
-</li>
-<li>
-<p>例句：</p>
-<blockquote>
-<p>The U.S established diplomatic relations with the P.R.C in 1979.</p>
-</blockquote>
-<p>此句中1979这个是时间点，并且1979是属于过去的时间，所以establish用过去式即established</p>
-<blockquote>
-<p>I was visiting clients the whole day yesterday</p>
-</blockquote>
-<p><em>the whold day yesterday</em>表明时间点是扩在这里，所以be动词应该是过去式，<em>visiting clients</em>表示一个现在分词，意思是正在，一直的意思，所以用visiting</p>
-<blockquote>
-<p>7-ELEVEN is selling big cokes at a discount this month</p>
-</blockquote>
-<p>this month表示now的意思，所以用is。而打折正在进行中，所以用selling。</p>
-<blockquote>
-<p>Don't call me at six tomorrow. I'll be sleeping then.</p>
-</blockquote>
-<p><em>at six tomorrow</em>是将来的一个时间点，<em>I'll be sleeping then</em>表示明天6点正在睡觉</p>
-</li>
-</ol>
-<h2 id="完成式">完成式</h2>
-<ol>
-<li>
-<p>相对于简单式用括弧来确定时间，完成式则用箭头形状来表达时间，表示动作的截止时间</p>
-</li>
-<li>
-<p>完成式只表明动作“曾经，做过”</p>
-</li>
-<li>
-<p>例句：</p>
-<blockquote>
-<p>I'm sure i have seen this face somewhere</p>
-</blockquote>
-<p>只能确定是看过但是无法确认是什么时间看到过的，表示过去到现在截止，用<em>have been</em>表示完成</p>
-<blockquote>
-<p>I had been smoking three packs of cigaretters a day before i decided to quit</p>
-</blockquote>
-<p>此处&quot;decided to quit&quot;已经是过去的时间，而&quot;before i&quot;则表明是过去的过去，所以用&quot;had been&quot;</p>
-<blockquote>
-<p>Next April, i will have worked here for 20 years</p>
-</blockquote>
-<p>将来完成时，从过去到将来的某一个时间点完成了什么</p>
-</li>
-</ol>
 ]]></content>
     </entry>
 </feed>
