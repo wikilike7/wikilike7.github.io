@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wikilike7.github.io</id>
     <title>自我驱动</title>
-    <updated>2019-08-06T07:47:06.961Z</updated>
+    <updated>2020-01-02T11:38:58.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wikilike7.github.io"/>
     <link rel="self" href="https://wikilike7.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://wikilike7.github.io/images/avatar.png</logo>
     <icon>https://wikilike7.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, 自我驱动</rights>
+    <rights>All rights reserved 2020, 自我驱动</rights>
     <entry>
         <title type="html"><![CDATA[听读和说写]]></title>
         <id>https://wikilike7.github.io/post/ting-du-he-shuo-xie</id>
